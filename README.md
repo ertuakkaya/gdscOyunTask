@@ -9,7 +9,7 @@ I hope you enjoy.
 
 ------------------------------------------
 
-for navigate the cat --> wd or right/left arrow keys
+for navigate the cat --> a,d or right/left arrow keys
 for jump --> space key
 
 -----------------------------------------------------
